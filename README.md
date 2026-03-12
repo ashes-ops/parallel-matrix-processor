@@ -1,3 +1,6 @@
+Parallel Matrix Processing Engine
+A high-performance Java utility designed to process large-scale numerical matrices using modern parallel computing paradigms. This project demonstrates the efficiency of Java Parallel Streams and the Fork/Join Framework in reducing computation time for data-intensive operations.
+
 🚀 Key Features
 Parallel Execution: Leverages multi-core CPU architecture to distribute matrix processing tasks, significantly outperforming sequential iterations.
 
@@ -21,4 +24,4 @@ The project includes unit tests that verify both the accuracy of the calculation
 
 Accuracy: Verified through rigorous unit testing with various matrix sizes.
 
-Concurrency Integrity: Stress-tested to ensure thread safety and consistent results across multiple execution environments.
+Concurrency Integrity: Stress-tested to ensure thread safety and consistent results across multiple execution environments
